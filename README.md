@@ -27,5 +27,5 @@ Selected merged work:
 - Inference infrastructure
 - Kubernetes-native workflow systems
 - Distributed runtime reliability
-- Backend architecture and code review
+- Backend architecture
 
