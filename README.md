@@ -28,7 +28,7 @@ Selected merged work:
 
 ## Publications
 
-- **Moving Logic Out of Pods: Extending the Argo Workflows Controller** — HackerNoon (2025)
+- [Moving Logic Out of Pods: Extending the Argo Workflows Controller](https://hackernoon.com/moving-logic-out-of-pods-extending-the-argo-workflows-controller)
 
 ## Focus
 
