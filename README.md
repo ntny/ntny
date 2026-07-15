@@ -20,6 +20,11 @@ Selected merged work:
 ### Argo Workflows
 
 - [#16075](https://github.com/argoproj/argo-workflows/pull/16075) - WorkflowTaskSets size reduction for large workflows
+- [#15440](https://github.com/argoproj/argo-workflows/pull/15440) - Configure the executor plugin at the workflow level
+
+
+### nvidia dynamo ai aiperf
+- [#994](https://github.com/ai-dynamo/aiperf/pull/994) - Socket buffer fallback for macOS compatibility
 
 ## Focus
 
