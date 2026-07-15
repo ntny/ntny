@@ -26,6 +26,10 @@ Selected merged work:
 ### NVIDIA Dynamo / AIPerf
 - [#994](https://github.com/ai-dynamo/aiperf/pull/994) - Socket buffer fallback for macOS compatibility
 
+## Publications
+
+- **Moving Logic Out of Pods: Extending the Argo Workflows Controller** — HackerNoon (2025)
+
 ## Focus
 
 - AI / ML infrastructure
