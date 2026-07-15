@@ -23,7 +23,7 @@ Selected merged work:
 - [#15440](https://github.com/argoproj/argo-workflows/pull/15440) - Configure the executor plugin at the workflow level
 
 
-### nvidia dynamo ai aiperf
+### NVIDIA Dynamo / AIPerf
 - [#994](https://github.com/ai-dynamo/aiperf/pull/994) - Socket buffer fallback for macOS compatibility
 
 ## Focus
