@@ -42,5 +42,6 @@ Selected merged work:
 - Inference runtime optimization
 - GPU performance
 - Distributed runtime reliability
+- Kubernetes-native workflow systems
 - Backend architecture
 
