@@ -9,7 +9,7 @@ Kubeflow member and OSS contributor. I work on backend/runtime architecture, rel
 ### Kubeflow Pipelines
 
 Selected merged work:
-  - [#12023](https://github.com/kubeflow/pipelines/pull/12023) - central driver architecture proposal based on Argo Workflows
+  - [#12023](https://github.com/kubeflow/pipelines/pull/12023) - central driver architecture proposal based on Argo Workflows Agent
   - [#12010](https://github.com/kubeflow/pipelines/pull/12010) - API server gRPC metrics and execution spec reporting optimization
   - [#12610](https://github.com/kubeflow/pipelines/pull/12610) - recurring runs queue throughput optimization
   - [#12648](https://github.com/kubeflow/pipelines/pull/12648) - reconciliation bug fix
@@ -26,6 +26,10 @@ Selected merged work:
 ### NVIDIA Dynamo / AIPerf
 - [#994](https://github.com/ai-dynamo/aiperf/pull/994) - Socket buffer fallback for macOS compatibility
 - [#1153](https://github.com/ai-dynamo/aiperf/pull/1153) - Support SGLang Speculative Decoding Metrics
+  
+
+### In Progress SGLang
+- [#31193](https://github.com/sgl-project/sglang/pull/31193) - Prevents SGLang server failure mode caused by unbounded Prometheus metric cardinality
 
   
 ## Publications
