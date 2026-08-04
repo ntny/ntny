@@ -38,9 +38,9 @@ Selected merged work:
 
 ## Focus
 
-- AI / ML infrastructure
-- Inference infrastructure
-- Kubernetes-native workflow systems
+- LLM inference systems
+- Inference runtime optimization
+- GPU performance
 - Distributed runtime reliability
 - Backend architecture
 
