@@ -30,6 +30,7 @@ Selected merged work:
 
 ### In Progress SGLang
 - [#31193](https://github.com/sgl-project/sglang/pull/31193) - Prevents SGLang server failure mode caused by unbounded Prometheus metric cardinality
+- [#36112](https://github.com/sgl-project/sglang/pull/36112) - Prototype Qwen3-Next native MTP path
 
   
 ## Publications
